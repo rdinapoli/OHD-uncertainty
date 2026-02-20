@@ -1,0 +1,5 @@
+variable,stev_mean_r,stev_ci_low,stev_ci_high,stev_pct_positive,corr_mean_r,corr_ci_low,corr_ci_high,corr_pct_positive,corr_includes_zero
+rainfall,0.465,0.058,0.806,98.8,0.147,-0.992,0.998,59.3,TRUE
+phosphorus,0.862,0.605,0.997,100,0.251,-0.989,0.999,65.8,TRUE
+calcium,-0.011,-0.433,0.421,47.6,-0.02,-0.997,0.995,48.9,TRUE
+base_saturation,0.183,-0.243,0.586,81,0.054,-0.996,0.997,54.1,TRUE

@@ -1,0 +1,5 @@
+question,temporal_resolution,answerable_30yr,answerable_299yr,certainty_30yr,certainty_299yr
+Presence/Absence,700,Yes,Yes,100,100
+Multi-century trends,400,Yes,Maybe,90,60
+Century-scale patterns,100,Maybe,No,70,20
+Pre/post-contact,62,No,No,99,55

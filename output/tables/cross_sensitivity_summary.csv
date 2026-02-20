@@ -1,0 +1,2 @@
+analysis,sigma_meas_values,tier0_at_001,tier3_at_001,parameter_floor,conclusion
+Cross-Sensitivity (Tier 0 vs Tier 3),"0.03, 0.01, 0.001",15.25510948748763,184.00475385599486,168.74964436850723,Dual bottleneck: measurement AND parameter uncertainty

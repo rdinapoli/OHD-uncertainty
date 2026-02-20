@@ -1,0 +1,11 @@
+# Large fit objects
+output/fits/*.rds
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+Rplots.pdf
+
+# OS files
+.DS_Store

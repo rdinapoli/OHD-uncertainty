@@ -1,0 +1,2 @@
+model,H2Ot_fixed,Ea_fixed,median_sd,median_ci_width,pct_exceeding_claimed,rhat_max,ess_min,n_samples
+Environment Only (Counterfactual),0.12290206607200946,84424.93840317443,153.9502005013949,597.0154420874694,100,1.0010379871703314,5748.508822702178,242

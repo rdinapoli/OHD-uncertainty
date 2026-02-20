@@ -1,0 +1,2 @@
+analysis,baseline_sigma_meas,baseline_uncertainty,asymptotic_residual,meas_error_fraction_pct,residual_fraction_pct,analytical_vs_empirical_ratio
+Measurement Error Floor Decomposition,0.03,287.689698743186,15.25510948748763,94.6973737488232,5.3026262511767985,1.2215333831788078

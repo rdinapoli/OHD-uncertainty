@@ -1,0 +1,2 @@
+tier,median_sd,median_ci_width,pct_exceeding_claimed,rhat_max,ess_min,n_divergent,n_max_treedepth,n_samples
+Tier 3,154.65368865959792,599.8039674268516,100,1.0016607666211874,6184.046660818088,0,0,242

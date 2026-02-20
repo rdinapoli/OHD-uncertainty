@@ -1,0 +1,10 @@
+Lab_ID,Level,Depth_m,C14_Age,C14_SD,Material,Context,Rat_Bone,Notes
+Ua-34183,2,1.85,535,35,nut shell,Below green clay lens,FALSE,Reliable short-lived material
+Ua-34184,2,1.85,640,65,rat bone,Below green clay lens,TRUE,Potential marine reservoir effect
+Ua-34185,4,2.30,610,50,rat bone,Construction fill,TRUE,Potential marine reservoir effect
+Ua-34186,5,2.45,555,35,charcoal,Pre-ahu sand layer,FALSE,Reliable short-lived material
+Ua-34187,5,2.45,915,60,rat bone,Pre-ahu sand layer,TRUE,ANOMALOUS - likely marine reservoir effect per Stevenson
+Ua-34188,5,2.45,665,30,charcoal,Pre-ahu sand layer,FALSE,Reliable short-lived material
+Ua-34189,6,2.60,565,35,nut shell,Early settlement deposit,FALSE,Reliable short-lived material
+Ua-34190,6,2.60,665,35,charcoal,Early settlement deposit,FALSE,Reliable short-lived material
+Ua-34191,6,2.60,565,35,nut shell,Early settlement deposit,FALSE,Reliable short-lived material

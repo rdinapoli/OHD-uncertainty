@@ -1,0 +1,5 @@
+comparison,year_diff,overlap_30yr,overlap_299yr,distinguishable_30,distinguishable_299
+SA1 claim (1660) vs Contact (1722),62,0.955,0.998,FALSE,FALSE
+SA2 claim (1705) vs Contact (1722),17,0.985,1,FALSE,FALSE
+Contact (1722) vs Post-contact (1780),58,0.966,0.999,FALSE,FALSE
+SA1 claim (1660) vs SA3 claim (1850),190,0.794,0.987,FALSE,FALSE

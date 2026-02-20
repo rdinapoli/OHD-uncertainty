@@ -1,0 +1,30 @@
+Sample_ID,Provenience,Depth_m,Level,OHD_Date_AD,OHD_SD,EHT_C,Intrusive,Notes
+RBC-162,17-03-0321,1.50,1,1827,30,25.2,FALSE,Wind-blown sand - UNRELIABLE per Stevenson
+RBC-163,17-03-0321,1.50,1,1708,30,25.2,FALSE,Wind-blown sand - UNRELIABLE per Stevenson
+RBC-159,17-03-0318,1.60,1,1650,30,25.2,FALSE,Wind-blown sand - UNRELIABLE per Stevenson
+RBC-160,17-03-0318,1.60,1,1745,30,25.2,FALSE,Wind-blown sand - UNRELIABLE per Stevenson
+RBC-161,17-03-0318,1.60,1,2002,30,25.2,FALSE,Wind-blown sand - UNRELIABLE per Stevenson
+RBC-164,17-03-0315,1.85,2,1595,30,25.2,FALSE,Below green clay lens
+RBC-165,17-03-0315,1.85,2,1630,30,25.2,FALSE,Below green clay lens
+RBC-166,17-03-0315,1.85,2,1428,30,25.2,FALSE,Below green clay lens
+RBC-167,17-03-0315,1.85,2,1475,30,25.2,FALSE,Below green clay lens
+RBC-156,17-03-0323,2.30,4,1456,30,24.3,FALSE,Construction fill
+RBC-157,17-03-0323,2.30,4,1425,30,24.3,FALSE,Construction fill
+RBC-158,17-03-0323,2.30,4,1282,30,24.3,FALSE,Construction fill
+RBC-133,17-03-0320,2.45,5,1374,30,24.0,FALSE,Pre-ahu sand layer
+RBC-134,17-03-0320,2.45,5,1349,30,24.0,FALSE,Pre-ahu sand layer
+RBC-135,17-03-0320,2.45,5,1871,30,24.0,TRUE,Labeled intrusive by Stevenson - no excavation evidence
+RBC-92,17-03-0286,2.50,6,1836,30,24.0,TRUE,Labeled intrusive by Stevenson - no excavation evidence
+RBC-93,17-03-0286,2.50,6,1348,30,24.0,FALSE,Early settlement deposit
+RBC-94,17-03-0286,2.50,6,1247,30,24.0,FALSE,Early settlement deposit
+RBC-95,17-03-0286,2.50,6,1317,30,24.0,FALSE,Early settlement deposit
+RBC-97,17-03-0286,2.50,6,1438,30,24.0,FALSE,Early settlement deposit
+RBC-98,17-03-0286,2.50,6,1237,30,24.0,FALSE,Early settlement deposit
+RBC-136,17-03-0286,2.50,6,1383,30,24.0,FALSE,Early settlement deposit
+RBC-137,17-03-0286,2.50,6,1433,30,24.0,FALSE,Early settlement deposit
+RBC-138,17-03-0286,2.50,6,1311,30,24.0,FALSE,Early settlement deposit
+RBC-139,17-03-0286,2.50,6,1302,30,24.0,FALSE,Early settlement deposit
+RBC-140,17-03-0286,2.50,6,1844,30,24.0,TRUE,Labeled intrusive by Stevenson - no excavation evidence
+RBC-141,17-03-0286,2.50,6,1794,30,24.0,TRUE,Labeled intrusive by Stevenson - no excavation evidence
+RBC-142,17-03-0286,2.50,6,1491,30,24.0,FALSE,Early settlement deposit
+RBC-102,17-03-0316,2.65,6,1288,30,23.4,FALSE,Early settlement deposit
