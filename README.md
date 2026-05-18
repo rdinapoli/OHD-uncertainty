@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1156783594.svg)](https://doi.org/10.5281/zenodo.20272839)
 # Fundamental Uncertainties Invalidate the Precision of Obsidian Hydration Dating: A Rapa Nui Case Study
 
 Bayesian reanalysis of obsidian hydration dating (OHD) uncertainty using the Stevenson et al. (2015) Rapa Nui dataset. Propagating realistic parameter uncertainty through the hydration rate equation yields dating precision of approximately ±300 years (95% CI ~600 years), compared to the claimed ±30 years. This uncertainty exceeds the island's entire prehistoric sequence (~520 years), rendering OHD dates uninformative for the chronological questions they were used to address.
